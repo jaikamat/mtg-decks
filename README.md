@@ -4,4 +4,4 @@ This is a simple repository for my EDH decks. They will be updated as needed and
 
 ## Current roster
 
-- Mono black Golos (v1.0.0)
+- Mono black Golos (v1.1.0)
