@@ -25,7 +25,7 @@
 1 Ugin, the Spirit Dragon
 1 K'rrik, Son of Yawgmoth
 1 Liliana of the Dark Realms
-1 Mind Stone
+1 Mana Crypt
 1 Phyrexian Reclamation
 1 Wurmcoil Engine
 1 Crypt Ghast
